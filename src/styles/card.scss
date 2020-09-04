@@ -17,8 +17,8 @@
     transition: transform 1s;
 
     &:hover {
-      transform: scale(1.2, 1.2);
-      border: solid 3px $card-borders-color;
+      transform: scale(1.2);
+      border: $card-borders-color;
     }
   }
 
